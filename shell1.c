@@ -88,10 +88,11 @@ int main () {
                     }
 
                     status = execvp(fpath, argv);  
+                    bad_command(status);
+                    exit(0);
     
                 }
                     wait(NULL);  // Parent process wait for child                 
-                    bad_command(status);
                     print_function();
                
      

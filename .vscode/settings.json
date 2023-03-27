@@ -1,5 +1,8 @@
 {
     "files.associations": {
-        "dirent.h": "c"
+        "dirent.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "types.h": "c"
     }
 }
