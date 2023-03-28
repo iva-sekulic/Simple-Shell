@@ -1,13 +1,4 @@
-/*Assignment 2 - shell
-by Iva Sekulic ; iva.sekulic@ucdconnect.ie ; 21309706
-This is a simple functional shell that performs all the main features.
-It also has a few additional features:
-a) the promopt has colour
-b) you can exit the shell by typing 'exit'
-The shell has multiple error checks, however buffer overflow could kill it and
-when CTL-D is pressed it doesn't print a new line before exiting (although 
-some shells don't do that anyways), this was working when the whole code was in a
-while(1) loop, however nested loops are bad practice and I decided against it.*/
+/* by Iva Sekulic */
 
 #include "functions.h"
 

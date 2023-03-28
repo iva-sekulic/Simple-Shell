@@ -1,5 +1,4 @@
-/*Assignment 2 - shell
-by Iva Sekulic ; iva.sekulic@ucdconnect.ie ; 21309706*/
+/* by Iva Sekulic */
 
 #include "functions.h"
 
